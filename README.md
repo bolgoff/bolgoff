@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/bolgovstory" target="_blank">Andrew Bolgov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Scientist, ML enthusiast, CS student</h3>
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=bolgoff)](https://github.com/bolgoff/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bolgoff)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **bolgoff/bolgoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
