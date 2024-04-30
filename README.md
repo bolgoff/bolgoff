@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI3NzdqcGw1N2UyNG1mMjF5MzZlOTd5bXZzdHJqdXpudGNqeWpibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy-downsized-large.gif" width="30"> from Russia.
+I am a Data Scientist from Russia.
 - :telescope: I learn ML, DL, Math and algorithms.
 
 - :zap: In my free time, I solve problems on LeetCode, Kaggle and read tech articles.
