@@ -54,4 +54,4 @@ I am a Data Scientist <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjE
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgoff&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgoff&theme=dark&hide_border=true)](https://git.io/streak-stats)
