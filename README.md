@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/bolgovstory" target="_blank">Andrew Bolgov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Scientist, ML enthusiast, CS student</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolgoff)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBnNzRmaHN3Y2pzdTB0Z3BwaXFuYzVrMHRpZ29zZmNoc3V6bDVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)" width="100"/>
+</div>
+
 
 <!--
 **bolgoff/bolgoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
