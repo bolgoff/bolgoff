@@ -4,9 +4,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBnNzRmaHN3Y2pzdTB0Z3BwaXFuYzVrMHRpZ29zZmNoc3V6bDVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="100"/>
 </div>
-
----
-
 <div id="badges" align="center">
   <a href="https://www.kaggle.com/phobosio">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
@@ -53,3 +50,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjE
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgoff&theme=dark&background=000000)](https://git.io/streak-stats)
