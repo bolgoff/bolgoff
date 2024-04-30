@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBnNzRmaHN3Y2pzdTB0Z3BwaXFuYzVrMHRpZ29zZmNoc3V6bDVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.kaggle.com/phobosio">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
