@@ -18,10 +18,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamYyZ3o1ZmRicTF1d2lsYWhrMTRrMDBybGE4Y21iYzU1ZHlxajE3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iyn3TeqMba2Eaek/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :man_technologist: About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI3NzdqcGw1N2UyNG1mMjF5MzZlOTd5bXZzdHJqdXpudGNqeWpibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy-downsized-large.gif" width="30"> from Russia.
 - :telescope: I learn ML, DL, Math and algorithms.
