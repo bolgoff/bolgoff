@@ -50,6 +50,6 @@ I am a Data Scientist from Russia.
 ---
 
 ### :fire: My Stats :
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bolgoff)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgoff&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolgoff&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
