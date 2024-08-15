@@ -50,5 +50,5 @@ I am a Data Scientist from Russia.
 ---
 
 ### :fire: My Stats :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bolgoff)](https://leetcode.com/bolgoff)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/bolgoff?ext=contest)](https://leetcode.com/bolgoff)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgoff&theme=dark&hide_border=true)](https://git.io/streak-stats)
