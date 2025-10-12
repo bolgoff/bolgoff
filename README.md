@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a ML Engineer from Russia.
+I am an ML Engineer from Russia.
 - :telescope: I learn ML, DL, Math and algorithms.
 
 - :mortar_board: Areas of interest in AI: Computer Vision, Robotics, LLM, NLP
