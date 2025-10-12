@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone, I'm <a href="https://t.me/bolgovstory" target="_blank">Andrew Bolgov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Scientist, ML Engineer</h3>
+<h3 align="center">ML Engineer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBnNzRmaHN3Y2pzdTB0Z3BwaXFuYzVrMHRpZ29zZmNoc3V6bDVtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="100"/>
 </div>
@@ -19,8 +19,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist from Russia.
+I am a ML Engineer from Russia.
 - :telescope: I learn ML, DL, Math and algorithms.
+
+- :mortar_board: Areas of interest in AI: Computer Vision, Robotics, LLM, NLP
 
 - :zap: In my free time, I solve problems on LeetCode, Kaggle and read tech articles.
 
