@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone, I'm <a href="https://t.me/bolgovstory" target="_blank">Andrew Bolgov</a> 
+<h1 align="center">Hello everyone, I'm <a href="https://t.me/abolgoff" target="_blank">Andrew Bolgov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ML Engineer</h3>
 <div id="header" align="center">
